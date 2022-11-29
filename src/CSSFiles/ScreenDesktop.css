@@ -1,0 +1,44 @@
+body {
+    background-color: #EFEFEF;
+}
+.deskimg {
+    width: 420px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 15%;
+    bottom: 0%;
+}
+
+p {
+    font-size: 24px;
+    font-style: normal;
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 30%;
+    bottom: 0%;
+}
+
+h3 {
+    font-size: 32px;
+    
+    position: absolute;
+    left: 25%;
+    right: 0%;
+    top: 35%;
+    bottom: 0%;
+}
+
+.categories {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+}

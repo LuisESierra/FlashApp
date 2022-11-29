@@ -1,0 +1,98 @@
+.bg {
+  background: #3D3D3D;
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+.title {
+  text-align: left;
+  font-family: 'Helvetica';
+
+  position: absolute;
+  left: 10%;
+  right: 0%;
+  top: 15%;
+  bottom: 0%;
+  color: #ffffff;
+}
+
+.img {
+  width: 100px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  position: absolute;
+  left: 0%;
+  right: 50%;
+  top: 10%;
+  bottom: 40%;
+}
+
+.gbutton {
+  width: 368px;
+  height: 54px;
+  left: 545px;
+  top: 343px;
+
+  position: absolute;
+  left: 0%;
+  right: 50%;
+  top: 66%;
+  bottom: 0%;
+
+  background: #FF2102;
+  border-radius: 10px;
+
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+  display: block;
+  margin: auto;
+
+}
+
+.cbutton {
+  width: 368px;
+  height: 54px;
+  left: 545px;
+  top: 521px;
+
+  position: absolute;
+  left: 0%;
+  right: 50%;
+  top: 90%;
+  bottom: 0%;
+
+  background: #FF8D10;
+  border-radius: 10px;
+
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+  display: block;
+  margin: auto;
+}
+
+.reg {
+  text-align: center;
+  font-family: 'Helvetica';
+
+  position: absolute;
+  left: 0%;
+  right: 50%;
+  top: 80%;
+  bottom: 40%; 
+}

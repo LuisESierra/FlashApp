@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 2rem;
+    background: white;
+}
+
+.inputt {
+    margin-inline: 5px 5px;
+    margin-bottom: 4rem;
+}
+
+.button1 {
+    margin-bottom: 2rem;
+}
+
+h6 {
+    font-size: 14px;
+    text-align: center;
+}
+h2 {
+    margin-bottom: 3rem;
+    text-align: center;
+}

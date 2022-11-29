@@ -1,0 +1,48 @@
+h3 {
+    font-size: 40;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -900px;
+    bottom: 0%;
+}
+
+p {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -800px;
+    bottom: 0%; 
+}
+
+.bgimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+.foodc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.button {
+    width: 368px;
+    height: 54px;
+    left: 545px;
+    top: 343px;
+    display: block;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 50%;
+    bottom: 0%;
+    
+}

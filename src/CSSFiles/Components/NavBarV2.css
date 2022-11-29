@@ -1,0 +1,14 @@
+.logoV2 {
+    width: 150px;
+    
+    position: absolute;
+    left: 15%;
+    right: 0%;
+    top: 20%;
+    bottom: 0%;
+}
+
+.dir {
+    color: #FF8D10;
+    font-size: 14px;
+}

@@ -1,0 +1,14 @@
+.bg {
+    background-color: #EFEFEF ; 
+}
+
+.regis {
+
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    right: 50%;
+    margin-top: -50px;
+    margin-left: -250px;
+    
+}

@@ -1,0 +1,41 @@
+.back {
+    background-color: #EFEFEF;
+}
+
+.bg {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.titletext {
+    text-align: center;
+}
+
+.checkboxes {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.options {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.fill {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+.input {
+    margin-bottom: 1em;
+}
